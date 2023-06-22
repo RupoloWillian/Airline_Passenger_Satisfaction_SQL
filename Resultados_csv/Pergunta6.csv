@@ -1,0 +1,7 @@
+Classe,Tipo_Viagem,Conforto_Assentos,Conforto_Pernas,Limpeza
+Business,Business,3.78,3.68,3.49
+Economy,Business,3.11,3.07,3.09
+"Economy Plus",Business,3.15,3.03,3.12
+Business,Personal,3.48,2.86,3.21
+Economy,Personal,3.17,3.09,3.11
+"Economy Plus",Personal,3.19,3.08,3.12
