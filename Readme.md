@@ -39,7 +39,7 @@ A partir das análises utilizando SQL os seguintes insights foram obtidos:
 |Retorno         | Satisfeito             | 47,81          |
 |Retorno         | Neutro ou Insatisfeito | 52,19          |
 
-* Em ambos os gêneros o percentual "Neutro ou Insatisfeito é maior
+* Em ambos os gêneros o percentual "Neutro ou Insatisfeito" é maior
 
 |Tipo de Cliente | Índice                 | Quantidade (%) |
 |----------------|------------------------|----------------|
